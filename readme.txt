@@ -8,6 +8,7 @@ Technology Used
 
 *   In /generate_record API here i am doing Mandetory fields validation also.
 
+imp - read Python_Test 2021.pdf for request data details
 
 1.  /generate_record
         reuest data -
